@@ -4,7 +4,7 @@ A .NET webapp to post and view jokes. Users can edit and delete jokes they have 
 
 ## setup
 
-To use this app locally, please enter the following commands in a terminal.
+To use this app locally, ensure you have the <a href="https://learn.microsoft.com/en-us/dotnet/core/install/">.NET CLI</a> installed and enter the following commands in a terminal.
 
 ```
 git clone https://github.com/aleckondichook/joke-app
